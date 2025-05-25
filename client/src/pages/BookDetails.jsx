@@ -154,7 +154,8 @@ function BookDetail() {
             >
               <strong>{review.rating}⭐</strong> - {review.comment}
               {user &&
-                (user._id === review.user._id || user.role === "admin") && (
+                (user._id === (review.user._id || review.user) ||
+                  user.role === "admin") && (
                   <button
                     onClick={() => deleteReview(review._id)}
                     className="btn btn-danger btn-sm ms-2"
