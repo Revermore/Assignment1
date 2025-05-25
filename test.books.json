@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "6830ab9044512ee388736d8b"
+  },
+  "title": "Intuition",
+  "author": "Amisha Ghadiyali",
+  "description": "Intuition i guess",
+  "genre": "Historical Fiction",
+  "coverImage": "https://www.papertrue.com/blog/wp-content/uploads/2023/11/28intuition.jpg",
+  "averageRating": 4.5,
+  "ratingsCount": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-23T17:08:32.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-23T17:11:21.048Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6830ab9044512ee388736d8c"
+  },
+  "title": "Exploring the now",
+  "author": "Eugenio Garibay",
+  "description": "Tiny changes, big results.",
+  "genre": "Self-help",
+  "coverImage": "https://images-platform.99static.com//mN90IwBVp74kHGLcw-bLXUfGzP4=/408x1578:1620x2790/fit-in/500x500/99designs-contests-attachments/118/118932/attachment_118932625",
+  "averageRating": 2.5,
+  "ratingsCount": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-23T17:08:32.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-25T10:15:27.986Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6830ab9044512ee388736d8d"
+  },
+  "title": "Walk into the shadow",
+  "author": "Estelle Darcy",
+  "description": "Content Warning",
+  "genre": "Dark Romance",
+  "coverImage": "https://marketplace.canva.com/EAFfSnGl7II/2/0/1003w/canva-elegant-dark-woods-fantasy-photo-book-cover-vAt8PH1CmqQ.jpg",
+  "averageRating": 4,
+  "ratingsCount": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-23T17:08:32.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-25T10:16:30.048Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6830ab9044512ee388736d8e"
+  },
+  "title": "Harry Potter and the Deathly Hallows",
+  "author": "J.K.Rowling",
+  "description": "Explore the fantasy world of Harry Potter",
+  "genre": "Comedy",
+  "coverImage": "https://dryuc24b85zbr.cloudfront.net/tes/resources/6441170/image?width=500&height=500&version=1474643904786",
+  "averageRating": 4.333333333333333,
+  "ratingsCount": 3,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-23T17:08:32.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-25T10:19:13.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6832ec2f82ec148368f696a3"
+  },
+  "title": "Tess of the road",
+  "author": "Rachel Hartman",
+  "description": "You're going to love this if you love dragons like me!",
+  "genre": "Supernatural Fiction",
+  "coverImage": "https://images.squarespace-cdn.com/content/v1/5ae2fce87e3c3ae275ea2c9f/1526464175408-W92Q4MSAM40I8YF4HM64/tess-cover.jpg?format=1500w",
+  "averageRating": 4,
+  "ratingsCount": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-25T10:08:47.102Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-25T10:19:54.092Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6832ec2f82ec148368f696a4"
+  },
+  "title": "Haven Fall",
+  "author": "Sara Holland",
+  "description": "Was it all in my head?",
+  "genre": "Heart-Touching",
+  "coverImage": "https://rocketexpansion.com/wp-content/uploads/2021/11/Haven-fall.jpg",
+  "averageRating": 5,
+  "ratingsCount": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-25T10:08:47.103Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-25T10:20:38.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6832ec2f82ec148368f696a5"
+  },
+  "title": "Midnight caller",
+  "author": "Elizabeth Jones",
+  "description": "Meow",
+  "genre": "Dark Romance",
+  "coverImage": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:65b67113-c586-55ff-b484-c13170df2e69/component?assetType=TEMPLATE&etag=2a1c7fea787442f8a78506e286f63e2e&revision=724ce2f7-55e7-4f76-b3fc-ec3e8f1e398b&component_id=db2f32b4-2bc2-4d8c-a8ce-af38ea493991",
+  "averageRating": 4,
+  "ratingsCount": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-25T10:08:47.103Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-25T10:21:27.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6832ec2f82ec148368f696a6"
+  },
+  "title": "Harry Potter and the goblet of fire",
+  "author": "J.K.Rowling",
+  "description": "Explore the fantasy world of Harry Potter",
+  "genre": "Comedy",
+  "coverImage": "https://contentful.harrypotter.com/usf1vwtuqyxm/3d9kpFpwHyjACq8H3EU6ra/85673f9e660407e5e4481b1825968043/English_Harry_Potter_4_Epub_9781781105672.jpg",
+  "averageRating": 4.5,
+  "ratingsCount": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-25T10:08:47.103Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-25T10:22:23.727Z"
+  }
+}]

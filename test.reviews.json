@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "6830aba844512ee388736d95"
+  },
+  "book": {
+    "$oid": "6830ab9044512ee388736d8b"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d91"
+  },
+  "rating": 5,
+  "comment": "Mmmm that's a lot of intuition lol.",
+  "createdAt": {
+    "$date": "2025-05-23T17:08:56.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6830ac3844512ee388736d99"
+  },
+  "book": {
+    "$oid": "6830ab9044512ee388736d8b"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d92"
+  },
+  "rating": 4,
+  "comment": "Spicy, very well written, the way the characters point of view is described and the details makes me easily imagine the whole thing like I'm standing there and watching everything play out",
+  "createdAt": {
+    "$date": "2025-05-23T17:11:20.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832ed8582ec148368f696a8"
+  },
+  "book": {
+    "$oid": "6830ab9044512ee388736d8c"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d92"
+  },
+  "rating": 2,
+  "comment": "I'm never exploring the now.",
+  "createdAt": {
+    "$date": "2025-05-25T10:14:29.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832edbf82ec148368f696ac"
+  },
+  "book": {
+    "$oid": "6830ab9044512ee388736d8c"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d93"
+  },
+  "rating": 3,
+  "comment": "Well written but very slow.",
+  "createdAt": {
+    "$date": "2025-05-25T10:15:27.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832edfd82ec148368f696b4"
+  },
+  "book": {
+    "$oid": "6830ab9044512ee388736d8d"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d91"
+  },
+  "rating": 5,
+  "comment": "I love romance so much and this book perfectly scratched that unreachable itch!",
+  "createdAt": {
+    "$date": "2025-05-25T10:16:29.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832ee2782ec148368f696b8"
+  },
+  "book": {
+    "$oid": "6830ab9044512ee388736d8e"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d91"
+  },
+  "rating": 5,
+  "comment": "I love romance HARRY POTTER SERIES.",
+  "createdAt": {
+    "$date": "2025-05-25T10:17:11.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832ee3a82ec148368f696bc"
+  },
+  "book": {
+    "$oid": "6830ab9044512ee388736d8e"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d92"
+  },
+  "rating": 5,
+  "comment": "HE DID WHAT WITH HERMOINEEE!???????.",
+  "createdAt": {
+    "$date": "2025-05-25T10:17:30.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832eea182ec148368f696c0"
+  },
+  "book": {
+    "$oid": "6830ab9044512ee388736d8e"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d93"
+  },
+  "rating": 3,
+  "comment": "BOOOOOOOOOOOOO JK ROWLING",
+  "createdAt": {
+    "$date": "2025-05-25T10:19:13.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832eeca82ec148368f696c8"
+  },
+  "book": {
+    "$oid": "6832ec2f82ec148368f696a3"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d93"
+  },
+  "rating": 5,
+  "comment": "Another Rachel Hartman masterpiece",
+  "createdAt": {
+    "$date": "2025-05-25T10:19:54.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832eef682ec148368f696cc"
+  },
+  "book": {
+    "$oid": "6832ec2f82ec148368f696a4"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d91"
+  },
+  "rating": 5,
+  "comment": "This was such a beautiful peek into her head, what a genius",
+  "createdAt": {
+    "$date": "2025-05-25T10:20:38.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832ef2782ec148368f696d0"
+  },
+  "book": {
+    "$oid": "6832ec2f82ec148368f696a5"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d93"
+  },
+  "rating": 4,
+  "comment": "Love the desciption :cat:",
+  "createdAt": {
+    "$date": "2025-05-25T10:21:27.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832ef3c82ec148368f696d4"
+  },
+  "book": {
+    "$oid": "6832ec2f82ec148368f696a6"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d91"
+  },
+  "rating": 5,
+  "comment": "I LOVE THE HARRY POTTER SERIES",
+  "createdAt": {
+    "$date": "2025-05-25T10:21:48.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6832ef5f82ec148368f696d8"
+  },
+  "book": {
+    "$oid": "6832ec2f82ec148368f696a6"
+  },
+  "user": {
+    "$oid": "6830ab9044512ee388736d92"
+  },
+  "rating": 4,
+  "comment": "But in the movie dumbledore clearly was NOT calm lol",
+  "createdAt": {
+    "$date": "2025-05-25T10:22:23.661Z"
+  },
+  "__v": 0
+}]
